@@ -34,7 +34,7 @@ of charge, only so the app can offer it on request. If you are a rights holder a
 issue and it will be taken down.
 
 These editions are not Kahf Labs' work, and this repository grants no licence over them. They are shared here only
-so the Mizwala app can offer them on request. To use them for anything else, go to the source above and its rights
+so the Mizwala app can offer them on request. To use them for anything else, go to the sources and rights
 holders.
 
 ### Format
