@@ -16,14 +16,14 @@ Include which file or release, what you found, and how to reproduce it.
 
 ## In scope
 
-- A release file whose SHA-256 does not match the one in the README.
+- A release file whose SHA-256 does not match the one published for it in the README.
 - A way to replace or alter a release file without the repository owner's action.
 - Content that makes the app misbehave when it loads the file.
 
 ## Rights holders
 
 This is not a security matter. If you hold the rights to a text redistributed here and want it removed, open a
-public issue or write to hello@kahflabs.com, as the README says; it will be taken down.
+public issue or write to hello@kahflabs.com, and it will be taken down.
 
 ## What to expect
 
